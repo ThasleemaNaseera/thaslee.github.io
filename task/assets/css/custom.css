@@ -1,0 +1,55 @@
+/*----------- ADD YOUR CUSTOM CSS STYLES BELOW -----------*/
+#logo{
+    width:170px;
+    height:150px;
+    margin-top:-50px;
+}
+#navvv{
+    margin-top: -60px;
+}
+#mypic{
+    border-radius: 350px;
+}
+
+#fo{
+    height:400px;
+    width:1160px;
+    border: 3px solid black;
+    padding-top:50px;
+    padding-left:50px;
+    border-radius: 30px;
+    margin-top: 20px;
+    background-color:#191919;
+    margin-left: 10px;
+}
+#form{
+    color:blue;
+    height:30px;
+    width:200px;
+    margin-left: 50px;
+}
+
+#hr{
+    font-weight:bold;
+    font-size: x-large;
+    color:white;
+}
+#hr1{
+    font-weight:bold;
+    font-size: x-large;
+    color:white;
+    
+}
+#button{
+    margin-top: -5px;
+    margin-left: 450px;
+}
+#head{
+    margin-top: 50px;
+}
+#ta{
+    color:blue;
+    
+    width:250px;
+    margin-left: 50px; 
+}
